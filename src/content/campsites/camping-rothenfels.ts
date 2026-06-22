@@ -40,7 +40,7 @@ const campingRothenfels: CampsiteConfig = {
     {
       title: "Dunkelster Himmel Mitteleuropas",
       text: "Oberwölz zählt laut Light-Pollution-Map zu den dunkelsten Gebieten Mitteleuropas — die Sterne stehen hier zum Greifen nah.",
-      image: { src: `${IMG}/gallery-6f14c31352.webp`, alt: "Sternenhimmel über dem Campingplatz Rothenfels" },
+      image: { src: `${IMG}/gallery-671fae0cd6.webp`, alt: "Milchstraße über den Wölzer Tauern — dunkler Sternenhimmel bei Oberwölz" },
     },
   ],
 
@@ -122,7 +122,7 @@ const campingRothenfels: CampsiteConfig = {
       {
         title: "Wandern in den Wölzer Tauern",
         text: "Sanfte, gut beschilderte Wege führen direkt vom Platz in die Berge — vom leichten Spaziergang bis zur Tour auf 2.500 m Seehöhe.",
-        image: { src: `${IMG}/gallery-bd5e040203.webp`, alt: "Wanderweg mit Baum und Bergblick bei Oberwölz" },
+        image: { src: `${IMG}/gallery-bd5e040203.webp`, alt: "Wanderweg zwischen alten Bäumen nahe Oberwölz" },
       },
       {
         title: "Fischen am Fischsee",
@@ -147,7 +147,7 @@ const campingRothenfels: CampsiteConfig = {
     intro: "Wald, Burg und stimmungsvolle Abende am Lagerfeuer — ein paar Eindrücke vom Campingplatz Rothenfels.",
     tag: "Oberwölz · Steiermark",
     images: [
-      { src: `${IMG}/gallery-1b2a3e74af.webp`, alt: "Waldblick im Wölzertal" },
+      { src: `${IMG}/gallery-02720a4725.webp`, alt: "Milchstraße über der Burg Rothenfels — Sternenhimmel bei Oberwölz" },
       { src: `${IMG}/gallery-4df4677c43.webp`, alt: "Sonnenterrasse mit Blick auf die Burg Rothenfels" },
       { src: `${IMG}/gallery-4b14f26965.webp`, alt: "Geselliger Abend am Lagerfeuer" },
       { src: `${IMG}/gallery-df03ff5c0e.webp`, alt: "Luftaufnahme des Campingplatzes Rothenfels mit Burg Rothenfels und dem weiten Wölzertal" },
